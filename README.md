@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=max-sixty">
-    <img src="https://komarev.com/ghpvc/?username=max-sixty&label=Profile%20views&color=00FFFF&style=flat-square" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=surajbhar&label=Profile%20views&color=00FFFF&style=flat-square" alt="Profile views" />
   </a>
 </p>
 
@@ -27,14 +27,12 @@ I'm always eager to learn, collaborate, and grow as a developer..<br><br><br>ðŸ¤
 
 
 # Tools & Stack:
-<table>
+
+<table align="left">
   <tr>
     <td><b>Languages</b></td>
     <td><img src="https://skillicons.dev/icons?i=py,c,html,js,=10" alt="Languages" /></td>
- </tr>
-
- 
-
+  </tr>
   <tr>
     <td><b>LLM / GenAI</b></td>
     <td>
@@ -42,31 +40,29 @@ I'm always eager to learn, collaborate, and grow as a developer..<br><br><br>ðŸ¤
       <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="38" alt="LangChain" />
       <img src="https://cdn.simpleicons.org/ollama" height="38" alt="Ollama" />
     </td>
-    
   </tr>
-
-
   <tr>
-    <td><b>Cloud </b></td>
+    <td><b>Cloud</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=googlecloud,docker,github,=10" alt="Cloud/MLOps" />
     </td>
-    
   </tr>
-
-  
-
   <tr>
     <td><b>Apps</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=vue,html,css,=10"  />
+      <img src="https://skillicons.dev/icons?i=vue,html,css,=10" />
       <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/n8n-icon.png" height="32" width="32" alt="n8n Icon" />
     </td>
-  
   </tr>
-
-
 </table>
+
+<picture align="right">
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+
+<br clear="both" />
 
 # GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=AlexAnys&custom_title=Suraj-labb's%20GitHub%20Stats&theme=radical)
