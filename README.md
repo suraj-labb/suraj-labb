@@ -14,3 +14,8 @@ I'm a curious Developer and AI Practitioner focused on building AI-powered appli
 
 ---
 [![](https://komarev.com/ghpvc/?username=suraj-labb&icon=2&color=6)](https://visitcount.itsvg.in)
+
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
