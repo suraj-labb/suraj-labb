@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Suraj-labb">
+  <a href="https://komarev.com/ghpvc/?username=max-sixty">
     <img src="https://komarev.com/ghpvc/?username=max-sixty&label=Profile%20views&color=00FFFF&style=flat-square" alt="Profile views" />
   </a>
 </p>
